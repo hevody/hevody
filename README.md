@@ -3,12 +3,48 @@
 </div>
 
 # About ME 💬 :
-### Just an 18-year-old tryna "learn (学习)" how to program for the betterment of the society and the world
+### Just an 18-year-old Filipino tryna "learn (学习)" how to program for the betterment of the society and the world
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/hevody/hevody/blob/main/assets/42715482b537bdb10d1c09d75339b709.gif">
-A man that have a zeal for Physics, Chemistry, Biology, Calculus, and Math in general. 🚀🧪🧬
+A man that have a zeal for Physics, Chemistry, Biology, Calculus, and Math in general 🚀🧪🧬
 
 ### - Hobbies : 
 - ♟️ Chess
 - 🍿 Watching Movies and Animes
 - 🍙 Reading Books and Manga
 
+</br>
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+<p align="center">
+  <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/python"></a>
+   <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/C"></a>
+  <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/C++"></a>
+   <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/javascript"></a>
+   <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/gnubash"></a>
+  <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/html5"></a>
+  <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/css"></a>
+   <a>
+    <img height="48" width="48" src="https://cdn.simpleicons.org/git"></a>
+</p>
+
+# Contact Me :
+wanna hangout or have few questions? don't you worry, just reach out to my socials!
+</br>
+<p align="center">
+  <a href="https://open.spotify.com/user/31qswkca2234tbe3h6po46tzz56u">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/spotify"></a>
+  <a href="https://discord.com/users/1449216769154875606">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="https://www.chess.com/member/hevocity">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/chess.com"></a>
+</p>
