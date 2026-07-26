@@ -5,7 +5,7 @@
 # About ME 💬 :
 ### Just an 18-year-old Filipino tryna "learn (学习)" how to program for the betterment of the society and the world
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/hevody/hevody/blob/main/assets/42715482b537bdb10d1c09d75339b709.gif">
-A man that have a zeal for Physics, Chemistry, Biology, Calculus, and Math in general 🚀🧪🧬
+A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in general 🚀🧪🧬
 
 ### - Hobbies : 
 - ♟️ Chess
