@@ -37,7 +37,7 @@ A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in gene
     <img height="48" width="48" src="https://cdn.simpleicons.org/git"></a>
 </p>
 
-# Contact Me :
+# Contact Me<img height="40" src="https://i.pinimg.com/originals/16/d3/2e/16d32e6bbc6ddb8bb084fcc767a22acf.gif"/>:
 wanna hangout or have few questions? don't you worry, just reach out to my socials!
 </br>
 <p align="center">
