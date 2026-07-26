@@ -19,21 +19,21 @@ A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in gene
 
 # Languages & Tools 👨‍💻 🛠:
 <p align="center">
-  <a>
+  <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/python"></a>
-   <a>
+  <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/C"></a>
-  <a>
+  <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/C++"></a>
-   <a>
+   <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/javascript"></a>
-   <a>
+   <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/gnubash"></a>
-  <a>
+  <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/html5"></a>
-  <a>
+  <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/css"></a>
-   <a>
+   <a href="https://github.com/hevody">
     <img height="48" width="48" src="https://cdn.simpleicons.org/git"></a>
 </p>
 
