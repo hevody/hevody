@@ -9,7 +9,7 @@ A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in gene
 
 ### - Hobbies : 
 - ♟️ Chess
-- 🍿 Watching Movies and Animes
+- 🍿 Watching Movies and Anime
 - 🍙 Reading Books and Manga
 
 </br>
