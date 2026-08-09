@@ -39,6 +39,7 @@ A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in gene
 
 # Websites
 https://citylove.neocities.org/
+https://hevody.github.io/WebDevelopmentAdventure/
 
 # Cybersecurity
 [PicoCTF](https://learn.cylabacademy.org/users/levityoc)
