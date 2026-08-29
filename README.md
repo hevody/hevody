@@ -51,6 +51,8 @@ have a look at my `Capture the Flags`
 [PicoCTF](https://learn.cylabacademy.org/users/levityoc)
 <br>
 [HackTheBox](https://app.hackthebox.com/users/3829677)
+<br>
+[root-me.org](https://www.root-me.org/velocity-1129987?lang=en)
 # Contact Me<img height="40" src="https://i.pinimg.com/originals/16/d3/2e/16d32e6bbc6ddb8bb084fcc767a22acf.gif"/>:
 wanna hangout or have few questions? don't you worry, just reach out to my socials!
 </br>
