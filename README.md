@@ -37,12 +37,15 @@ A man who has a zeal for Physics, Chemistry, Biology, Calculus, and Math in gene
     <img height="48" width="48" src="https://cdn.simpleicons.org/git"></a>
 </p>
 
-# Websites
+# Websites 🌐:
 https://citylove.neocities.org/
 <br>
 https://hevody.github.io/WebDevelopmentAdventure/
 
-# Cybersecurity
+## Blog, Docs, etc. 📰:
+[hevody.github.io/velocity-labs/](https://hevody.github.io/velocity-labs/)
+<br/><br/>
+# Cybersecurity 🕵:
 have a look at my `Capture the Flags`
 <br>
 [PicoCTF](https://learn.cylabacademy.org/users/levityoc)
